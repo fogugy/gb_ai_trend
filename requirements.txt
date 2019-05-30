@@ -2,6 +2,7 @@ attrs==19.1.0
 backcall==0.1.0
 bleach==3.1.0
 colorama==0.4.1
+cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
@@ -17,7 +18,9 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
+kiwisolver==1.1.0
 MarkupSafe==1.1.1
+matplotlib==3.1.0
 mistune==0.8.4
 ml-metrics==0.1.4
 nbconvert==5.5.0
@@ -32,6 +35,7 @@ pickleshare==0.7.5
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 Pygments==2.4.2
+pyparsing==2.4.0
 pyrsistent==0.15.2
 python-dateutil==2.8.0
 pytz==2019.1
